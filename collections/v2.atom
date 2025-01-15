@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.borderlineofficial.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.borderlineofficial.com/collections/v2.atom"/>
+  <title>Borderline</title>
+  <updated>2024-12-12T17:50:40+01:00</updated>
+  <author>
+    <name>Borderline</name>
+  </author>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9826833400146</id>
+    <published>2024-12-12T17:50:40+01:00</published>
+    <updated>2024-12-12T17:50:40+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/pre-order-the-hoodie-v2-lava-smoke"/>
+    <title>THE HOODIE V2 &quot;LAVA SMOKE&quot; PRE-ORDER</title>
+    <s:type>hoodie</s:type>
+    <s:vendor>PRE-ORDER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/E23A9556copy5-min.jpg?v=1734280695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PRE-ORDER<br>
+        <strong>Type: </strong>hoodie<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826833400146</id>
+      <title>XS / Lava Smoke</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826833400146</id>
+      <title>S / Lava Smoke</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826833400146</id>
+      <title>M / Lava Smoke</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826833400146</id>
+      <title>L / Lava Smoke</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826833400146</id>
+      <title>XL / Lava Smoke</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9826827469138</id>
+    <published>2024-12-12T17:46:18+01:00</published>
+    <updated>2024-12-12T17:46:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/pre-order-the-trackpants-v3-lava-smoke"/>
+    <title>THE TRACKPANTS V3 &quot;LAVA SMOKE&quot; PRE-ORDER</title>
+    <s:type>Trackpants</s:type>
+    <s:vendor>PRE-ORDER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/E23A9556copy3-min.jpg?v=1734196158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PRE-ORDER<br>
+        <strong>Type: </strong>Trackpants<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826827469138</id>
+      <title>XS / Lava Smoke</title>
+      <s:price currency="EUR">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826827469138</id>
+      <title>S / Lava Smoke</title>
+      <s:price currency="EUR">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826827469138</id>
+      <title>M / Lava Smoke</title>
+      <s:price currency="EUR">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826827469138</id>
+      <title>L / Lava Smoke</title>
+      <s:price currency="EUR">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826827469138</id>
+      <title>XL / Lava Smoke</title>
+      <s:price currency="EUR">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9826797617490</id>
+    <published>2024-12-12T17:30:40+01:00</published>
+    <updated>2024-12-12T17:30:40+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/the-zipper-v3-lava-smoke"/>
+    <title>THE ZIPPER V3 &quot;LAVA SMOKE&quot;</title>
+    <s:type>Zipper</s:type>
+    <s:vendor>DIRECT SALES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/ziplavasmoke1.jpg?v=1734191171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRECT SALES<br>
+        <strong>Type: </strong>Zipper<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826797617490</id>
+      <title>S / Lava Smoke</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826797617490</id>
+      <title>M / Lava Smoke</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826797617490</id>
+      <title>L / Lava Smoke</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9826797617490</id>
+      <title>XL / Lava Smoke</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9805585711442</id>
+    <published>2024-11-28T09:50:11+01:00</published>
+    <updated>2024-11-28T09:50:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/the-zipper-v3-moonless-night"/>
+    <title>THE ZIPPER V3 &quot;MOONLESS NIGHT&quot;</title>
+    <s:type>Zipper</s:type>
+    <s:vendor>DIRECT SALES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/zipcolormodifyexpandedbackground1-min.png?v=1732786177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRECT SALES<br>
+        <strong>Type: </strong>Zipper<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805585711442</id>
+      <title>S / Moonless Night</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805585711442</id>
+      <title>M / Moonless Night</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805585711442</id>
+      <title>L / Moonless Night</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805585711442</id>
+      <title>XL / Moonless Night</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9805585252690</id>
+    <published>2024-11-28T09:49:34+01:00</published>
+    <updated>2024-11-28T09:49:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/the-trackpants-moonless-night"/>
+    <title>THE TRACKPANTS V3 &quot;MOONLESS NIGHT&quot;</title>
+    <s:type>Trackpants</s:type>
+    <s:vendor>DIRECT SALES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/tutavetiverback-21W3-min.png?v=1732795044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRECT SALES<br>
+        <strong>Type: </strong>Trackpants<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805585252690</id>
+      <title>S / Moonless Night</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805585252690</id>
+      <title>M / Moonless Night</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805585252690</id>
+      <title>L / Moonless Night</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805585252690</id>
+      <title>XL / Moonless Night</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9805584892242</id>
+    <published>2024-11-28T09:48:54+01:00</published>
+    <updated>2024-11-28T09:48:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/the-hoodie-v2-moonless-night"/>
+    <title>THE HOODIE V2 &quot;MOONLESS NIGHT&quot;</title>
+    <s:type>hoodie</s:type>
+    <s:vendor>DIRECT SALES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/BLACKLABELFRONTCONSFONDOespanso1-min.png?v=1732786158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRECT SALES<br>
+        <strong>Type: </strong>hoodie<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805584892242</id>
+      <title>S / Moonless Night</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805584892242</id>
+      <title>M / Moonless Night</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805584892242</id>
+      <title>L / Moonless Night</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9805584892242</id>
+      <title>XL / Moonless Night</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9748096287058</id>
+    <published>2024-11-28T09:47:14+01:00</published>
+    <updated>2024-11-28T09:47:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/the-zipper-v3-vetiver-copy"/>
+    <title>THE ZIPPER V3 &quot;BLACK ONYX&quot;</title>
+    <s:type>Zipper</s:type>
+    <s:vendor>DIRECT SALES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/231.heic?v=1730045447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRECT SALES<br>
+        <strong>Type: </strong>Zipper<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9748096287058</id>
+      <title>S / Black Onyx</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9748096287058</id>
+      <title>M / Black Onyx</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9748096287058</id>
+      <title>L / Black Onyx</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9748096287058</id>
+      <title>XL / Black Onyx</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9691766817106</id>
+    <published>2024-11-28T09:47:13+01:00</published>
+    <updated>2024-11-28T09:47:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/the-trackpants-black-onyx"/>
+    <title>THE TRACKPANTS V3 &quot;BLACK ONYX&quot;</title>
+    <s:type>Trackpants</s:type>
+    <s:vendor>DIRECT SALES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/IMG_9672-2.png?v=1727624104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRECT SALES<br>
+        <strong>Type: </strong>Trackpants<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691766817106</id>
+      <title>S / Black Onyx</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691766817106</id>
+      <title>M / Black Onyx</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691766817106</id>
+      <title>L / Black Onyx</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691766817106</id>
+      <title>XL / Black Onyx</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9691763278162</id>
+    <published>2024-11-28T09:47:13+01:00</published>
+    <updated>2024-11-28T09:47:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/the-hoodie-v2-black-onyx"/>
+    <title>THE HOODIE V2 &quot;BLACK ONYX&quot;</title>
+    <s:type>hoodie</s:type>
+    <s:vendor>DIRECT SALES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/E23A919412.jpg?v=1732788457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRECT SALES<br>
+        <strong>Type: </strong>hoodie<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIRECT SALES</s:tag>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691763278162</id>
+      <title>S / Black Onyx</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691763278162</id>
+      <title>M / Black Onyx</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691763278162</id>
+      <title>L / Black Onyx</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691763278162</id>
+      <title>XL / Black Onyx</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9691762753874</id>
+    <published>2024-11-28T09:47:12+01:00</published>
+    <updated>2024-11-28T09:47:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/the-hoodie-v2-vetiver"/>
+    <title>THE HOODIE V2 &quot;VETIVER&quot;</title>
+    <s:type>hoodie</s:type>
+    <s:vendor>DIRECT SALES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/E23A919411.png?v=1727623931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRECT SALES<br>
+        <strong>Type: </strong>hoodie<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691762753874</id>
+      <title>S / Vetiver</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691762753874</id>
+      <title>M / Vetiver</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691762753874</id>
+      <title>L / Vetiver</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691762753874</id>
+      <title>XL / Vetiver</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9691758428498</id>
+    <published>2024-11-28T09:47:12+01:00</published>
+    <updated>2024-11-28T09:47:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/the-zipper-v3"/>
+    <title>THE ZIPPER V3 &quot;VETIVER&quot;</title>
+    <s:type>Zipper</s:type>
+    <s:vendor>DIRECT SALES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/FRONT_WIDE.heic?v=1730045547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRECT SALES<br>
+        <strong>Type: </strong>Zipper<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691758428498</id>
+      <title>S / Vetiver</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691758428498</id>
+      <title>M / Vetiver</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691758428498</id>
+      <title>L / Vetiver</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691758428498</id>
+      <title>XL / Vetiver</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.borderlineofficial.com/products/9691757281618</id>
+    <published>2024-11-28T09:47:11+01:00</published>
+    <updated>2024-11-28T09:47:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.borderlineofficial.com/products/the-trackpants-v3"/>
+    <title>THE TRACKPANTS V3 &quot;VETIVER&quot;</title>
+    <s:type>Trackpants</s:type>
+    <s:vendor>DIRECT SALES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3172/3981/files/IMG_9672-6.png?v=1727624204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRECT SALES<br>
+        <strong>Type: </strong>Trackpants<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691757281618</id>
+      <title>S / Vetiver</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691757281618</id>
+      <title>M / Vetiver</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691757281618</id>
+      <title>L / Vetiver</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.borderlineofficial.com/products/9691757281618</id>
+      <title>XL / Vetiver</title>
+      <s:price currency="EUR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+</feed>
