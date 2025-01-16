@@ -24,7 +24,7 @@
 <meta name="twitter:title" content="Borderline: AI-Designed Fashion Embracing Sustainability">
 <meta name="twitter:description" content="Borderline redefines fashion with AI, creating more than just hoodies—it&#39;s about a movement towards thoughtful design and lasting quality. Join us in embracing a future where every detail counts and every garment tells a story of innovation and sustainability.">
 
-
+<link rel="stylesheet" href="/css/main.css">
     <script src="cdn/shop/t/25/assets/vendor-v4.js" defer="defer"></script>
     <script src="cdn/shop/t/25/assets/pubsub.js?v=104623417541739052901700063543" defer="defer"></script>
     <script src="cdn/shop/t/25/assets/global.js?v=26886119164065653851700063543" defer="defer"></script>
@@ -870,9 +870,20 @@ for (var attr in meta) {
 <sticky-header data-scroll-up="" class="header-wrapper header-transparent">
   <header class="header header--off-canvas header--mobile-center page-width header-section--padding">
     <div class="header__left">
+      <div class="desktop__menu__content">
+      <nav class="menu-drawer__navigation" data-animate="" data-animate-delay-1="">
+            <ul class="menu-drawer__menu list-menu" role="list"><li><a href="#" class="menu-drawer__menu-item list-menu__itemfocus-inset menu-drawer__menu-item--active" aria-current="page">
+                      HOME
+                    </a></li><li><a href="collections/v2.html" class="menu-drawer__menu-item list-menu__itemfocus-inset">
+                      SHOP 
+                    </a></li><li><a href="pages/our-vision.html" class="menu-drawer__menu-item list-menu__itemfocus-inset">
+                      VISION
+                    </a></li></ul>
+          </nav>
+      </div>
 <header-drawer>
   <details class="menu-drawer-container">
-    <summary class="header__icon header__icon--menu focus-inset" aria-label="Menu">
+    <summary class="desktop__menu header__icon header__icon--menu focus-inset" aria-label="Menu">
       <span class="header__icon header__icon--summary">
         <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-hamburger" fill="none" viewbox="0 0 32 32">
       <path d="M0 26.667h32M0 16h26.98M0 5.333h32" stroke="currentColor"></path>
@@ -890,6 +901,7 @@ for (var attr in meta) {
               <use href="#icon-close"></use>
             </svg>
           </drawer-close-button>
+
           <nav class="menu-drawer__navigation" data-animate="" data-animate-delay-1="">
             <ul class="menu-drawer__menu list-menu" role="list"><li><a href="#" class="menu-drawer__menu-item list-menu__itemfocus-inset menu-drawer__menu-item--active" aria-current="page">
                       HOME
@@ -899,6 +911,7 @@ for (var attr in meta) {
                       VISION
                     </a></li></ul>
           </nav>
+
           <div class="menu-drawer__utility-links" data-animate="" data-animate-delay-1="">
             <a href="#" class="menu-drawer__account link link-with-icon focus-inset">
                 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-account" fill="none" viewbox="0 0 14 18">
@@ -918,6 +931,7 @@ for (var attr in meta) {
         </div>
       </div>
     </div>
+   
   </details>
 </header-drawer>
 </div>
@@ -975,7 +989,7 @@ for (var attr in meta) {
           </noscript>
         </cart-drawer></div>
   </header>
-  <span class="header-background"></span>
+  <!-- <span class="header-background"></span> -->
 </sticky-header>
 
 
@@ -1054,9 +1068,31 @@ for (var attr in meta) {
   </div>
 </div>
 
-
 </section>
-        </main>
+
+  <section class="main__cards">
+      <div class="main__cards_container">
+          <div class="card_blocks card__block_1">
+            <img src="https://fearofgod.com/cdn/shop/files/ETERNAL2025LOOK1-3-4Crops_900x.jpg?v=1733878737" alt="">
+            <h3 class="block__1_title">
+              <a href="#">Fear of God</a>
+            </h3>
+          </div>
+          <div class="card_blocks card__block_2">
+            <img src="https://fearofgod.com/cdn/shop/files/Eternal_V2_LOOK_29_001718-3-4Crops_addaa7ee-eb70-4e09-afd5-4a4fbbdfa4f1_900x.jpg?v=1733891227" alt="">
+            <h3 class="block__1_title">
+              <a href="#">Athletics</a>
+            </h3>
+          </div>
+          <div class="card_blocks card__block_3">
+            <img src="https://fearofgod.com/cdn/shop/files/Essentials_HO24_NBAKnicks02_0005copy2-3-4crop_900x.jpg?v=1732044309" alt="">
+            <h3 class="block__1_title">
+              <a href="#">Essentials</a>
+            </h3>
+          </div>
+        </div>
+    </section>
+</main>
 
         <!-- BEGIN sections: footer-group -->
 <div id="shopify-section-sections--20169949118802__footer" class="shopify-section shopify-section-group-footer-group shopify-section-footer"><style data-shopify="">#shopify-section-sections--20169949118802__footer {
